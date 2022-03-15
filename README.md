@@ -30,5 +30,6 @@ Hello! My name is Zero, (Yes Alias.) This Welcome section will be filled in over
 <!-- update these accordingly -->  
 [1]: http://www.twitter.com/DrDocxx
 [6]: http://www.github.com/ZeroDarkAlpha
+https://www.buymeacoffee.com/ZeroDarkAlpha
 
 <!-- End of Developer Section -->  
