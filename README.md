@@ -10,7 +10,7 @@ Hello! My name is Zero, (Yes Alias.) This Welcome section will be filled in over
 
 <br>
 
-## Future Milestones To keep myself accountable:
+## Milestones to reflect upon:
 - December 20th 2021: Start learning Python3
 - January 1st 2022: Look Into Odin Project & Leet Code
 - April 1st 2022: Started "The Odin Project"
