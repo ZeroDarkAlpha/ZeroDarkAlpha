@@ -1,6 +1,5 @@
-## || @ZeroDarkAlpha/"Zehroh" || Follow me on [![alt text][1.1]][1] ||
-
-Hello! My name is Zero, (Yes Alias.) This Welcome section will be filled in over time. Given I'm alive tomorrow.
+## || @ZeroDarkAlpha/"Zehroh" ||
+Hello! My name is Zero, (Yes Alias.) This Welcome section will be filled in over time. 
 
 
 # Notable Events
