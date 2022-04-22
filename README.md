@@ -18,7 +18,6 @@ Hello! My name is Zero, (Yes Alias.) This Welcome section will be filled in over
 
 ## Contact Zehroh:
 <!-- Social Media calls -->  
-[![alt text][1.1]][1]  @DrDoccx <br>
 [![alt text][6.1]][6]  @ZeroDarkAlpha <br>
 <!-- links to social media icons -->   
 <!-- icons with padding -->  
