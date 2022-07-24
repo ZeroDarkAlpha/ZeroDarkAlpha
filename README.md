@@ -1,6 +1,5 @@
-## || @ZeroDarkAlpha/"Zehroh" || Follow me on [![alt text][1.1]][1] ||
-
-Hello! My name is Zero, (Yes Alias.) This Welcome section will be filled in over time. Given I'm alive tomorrow.
+## || @ZeroDarkAlpha/"Zehroh" ||
+Hello! My name is Zero, (Yes Alias.) This Welcome section will be filled in over time. 
 
 
 # Notable Events
@@ -10,14 +9,16 @@ Hello! My name is Zero, (Yes Alias.) This Welcome section will be filled in over
 
 <br>
 
-## Future Milestones To keep myself accountable:
+## Milestones to reflect upon:
 - December 20th 2021: Start learning Python3
-- January 1st 2022: 
+- January 1st 2022: Look Into Odin Project & Leet Code
+- April 1st 2022: Started "The Odin Project"
+July 22nd 2022: Began an internal automation process at my work!
+July 23rd 2022: Began utilizing & learning, the library "puppeteer" for this project.
 <br>
 
 ## Contact Zehroh:
 <!-- Social Media calls -->  
-[![alt text][1.1]][1]  @DrDoccx <br>
 [![alt text][6.1]][6]  @ZeroDarkAlpha <br>
 <!-- links to social media icons -->   
 <!-- icons with padding -->  
@@ -30,5 +31,6 @@ Hello! My name is Zero, (Yes Alias.) This Welcome section will be filled in over
 <!-- update these accordingly -->  
 [1]: http://www.twitter.com/DrDocxx
 [6]: http://www.github.com/ZeroDarkAlpha
+https://www.buymeacoffee.com/ZeroDarkAlpha
 
 <!-- End of Developer Section -->  
