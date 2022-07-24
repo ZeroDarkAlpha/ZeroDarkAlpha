@@ -13,6 +13,8 @@ Hello! My name is Zero, (Yes Alias.) This Welcome section will be filled in over
 - December 20th 2021: Start learning Python3
 - January 1st 2022: Look Into Odin Project & Leet Code
 - April 1st 2022: Started "The Odin Project"
+July 22nd 2022: Began an internal automation process at my work!
+July 23rd 2022: Began utilizing & learning, the library "puppeteer" for this project.
 <br>
 
 ## Contact Zehroh:
